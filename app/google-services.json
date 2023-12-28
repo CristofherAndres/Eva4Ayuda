@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "834189301615",
+    "firebase_url": "https://loginvespertino-default-rtdb.firebaseio.com",
+    "project_id": "loginvespertino",
+    "storage_bucket": "loginvespertino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834189301615:android:4def850784c3c343daba9a",
+        "android_client_info": {
+          "package_name": "com.example.eva4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlns3R3c5l_n6YcPa0QtlglFOEJifq0IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834189301615:android:eba33be61fc2a467daba9a",
+        "android_client_info": {
+          "package_name": "com.example.lectordatos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlns3R3c5l_n6YcPa0QtlglFOEJifq0IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834189301615:android:48be447d29da8919daba9a",
+        "android_client_info": {
+          "package_name": "com.example.loginvespertinofb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlns3R3c5l_n6YcPa0QtlglFOEJifq0IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
